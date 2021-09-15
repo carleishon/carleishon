@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou a Carla Lima 😊...
 <hr/>
 
-<img align="right" alt="GIF" scr="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631740331309.png" width="400px">
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631740331309.png" width="400px" />
 
 ### 📝 Fale comigo através:
 
@@ -16,6 +16,7 @@
 <hr/>
 
 ### 📊 Minha evolução:
+<br/>
 
 ![Carla Github Stats](https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical)
 
