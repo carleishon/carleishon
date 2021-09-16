@@ -17,10 +17,9 @@
 <hr/>
 
 ### 📊 Minha evolução:
-<br/>
-
 ![Carla Github Stats](https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical)
 
+<br/>
 <hr/>
 
 ### 🧠 Minhas aptidões:
