@@ -1,7 +1,7 @@
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631740331309.png" width="350px" />
+
 ### 👋 Olá! Eu sou a Carla Lima 😊...
 <hr/>
-
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631740331309.png" width="350px" />
 
 ### 📝 Fale comigo através:
 
