@@ -14,8 +14,8 @@
 <hr/>
 
 ### 📊 Minha evolução:
-[![Carla Github Stats](https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical)]
-[![Carla GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carleishon&langs_count=5&theme=radical)]
+![Carla Github Stats](https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical)
+![Carla GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carleishon&langs_count=5&theme=radical)
 <hr/>
 
 ### 🧠 Minhas aptidões:
