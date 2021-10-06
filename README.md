@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631740331309.png" width="35%" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631740331309.png" width="15%" />
 
 ### 👋 Olá! Eu sou a Carla Lima 😊...
 <hr/>
@@ -14,9 +14,9 @@
 <hr/>
 
 ### 📊 Minha evolução:
-<div align="center" widht="60%">
+<div align="center" widht="40%">
   <a href="https://github.com/carleishon">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="20%" src="https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carleishon&layout=compact&langs_count=7&theme=radical"/>
 </div><hr/>
 
