@@ -14,12 +14,11 @@
 <hr/>
 
 ### 📊 Minha evolução:
-<div align="center">
+<div align="center" widht="60%">
   <a href="https://github.com/carleishon">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carleishon&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<hr/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=carleishon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carleishon&layout=compact&langs_count=7&theme=radical"/>
+</div><hr/>
 
 ### 🧠 Minhas aptidões:
 - Aprender rapidamente novas habilidades e linguagens de programação.
