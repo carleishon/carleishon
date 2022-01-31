@@ -75,8 +75,6 @@
 ### 🤓 Estou aprendendo: 
  - NoSQL
  - NodeJS
- - Javascript
-  
  - Estatística Avançada. 
  - E ainda me agarrando com entusiasmo a quaisquer outros princípios, metodologias, ferramentas, linguagens de programação ou frameworks que possam integrar dados na minha cabeça.
 
