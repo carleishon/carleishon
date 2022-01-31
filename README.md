@@ -44,10 +44,10 @@
 - Business Intelligence: 
 
     - Mapeamento de requisitos.
-    - ETL/ELT programaçãp e/ou ferramentas como
+    - ETL/ELT programação e/ou ferramentas como
     <img class=imagem src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo-600x168.png" alt="Pentaho" width="70" height="20" />; 
     <img class=imagem src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="msql" width="20" height="20"/> SSIS.
-    - Datawarehouse e DataMarts.
+    - Datawarehouse.
     
 
     - Construção de relatórios, Dashboards e Storytelling.
@@ -58,14 +58,13 @@
 
 
 - Banco de dados: 
-<img class=imagem src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="msql" width="20" height="20"/>SSIS  e 
-<img class=imagem src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>.
+    <img class=imagem src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="msql" width="20" height="20"/>SSIS  e 
+    <img class=imagem src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>.
 
 - Metodologias: Scrum, Customer Experience.
 
 - Outras plataformas: 
     - CMS Avaya e ECH. 
-    
     - Telefonias: Genesys, discador Olos.
     - WFM Impact 360 e Tepfra.
     - Kanban, Trello, Microsoft Planner.
@@ -75,10 +74,9 @@
 
 ### 🤓 Estou aprendendo: 
  - NoSQL
-
-- Tableau
- - Docker 
- - Spark
+ - NodeJS
+ - Javascript
+  
  - Estatística Avançada. 
  - E ainda me agarrando com entusiasmo a quaisquer outros princípios, metodologias, ferramentas, linguagens de programação ou frameworks que possam integrar dados na minha cabeça.
 
